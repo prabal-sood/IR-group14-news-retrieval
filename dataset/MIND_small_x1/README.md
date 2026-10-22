@@ -1,6 +1,6 @@
 # MIND Small Dataset
 
-The training dataset (train.csv, ~4 GB)
+The training dataset and others (~7 GB)
 is stored on Google Drive.
 
 Download train.csv:
