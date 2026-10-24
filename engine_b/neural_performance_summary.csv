@@ -1,0 +1,2 @@
+engine,model,corpus_size,embedding_dimensions,embedding_time_sec,embedding_memory_mb,average_latency_ms,median_latency_ms,min_latency_ms,max_latency_ms,estimated_queries_per_sec
+Neural Dense Retrieval,all-MiniLM-L6-v2,10000,384,9.075123071670532,14.6484375,12.764178800011905,9.956193999983043,9.211294000124326,22.589257999925394,78.34424882853156
