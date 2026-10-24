@@ -1,2 +1,0 @@
-engine,model,documents,embedding_dimensions,average_latency_ms,median_latency_ms,min_latency_ms,max_latency_ms,embedding_memory_mb,estimated_queries_per_second
-Neural Dense Retrieval,all-MiniLM-L6-v2,10000,384,10.549981099893557,10.31408549988555,9.368960999836418,14.441649999753281,14.6513671875,94.78689966658702
